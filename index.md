@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -33,7 +33,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My GitHub Page!</h1>
+        <h1>HADRANI</h1>
     </header>
     <main>
         <p>This is a simple static webpage hosted on GitHub Pages.</p>
